@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="sodapop_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="sodapop" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="16" />
+   <wvobject db_ref_id="1" fp_name="/sodapop/S" type="array">
+      <obj_property name="ElementShortName">S[7:0]</obj_property>
+      <obj_property name="ObjectShortName">S[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/sodapop/A" type="array">
+      <obj_property name="ElementShortName">A[7:0]</obj_property>
+      <obj_property name="ObjectShortName">A[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/sodapop/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/sodapop/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/sodapop/C" type="logic">
+      <obj_property name="ElementShortName">C</obj_property>
+      <obj_property name="ObjectShortName">C</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/sodapop/D" type="logic">
+      <obj_property name="ElementShortName">D</obj_property>
+      <obj_property name="ObjectShortName">D</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/sodapop/tot_ld" type="logic">
+      <obj_property name="ElementShortName">tot_ld</obj_property>
+      <obj_property name="ObjectShortName">tot_ld</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/sodapop/tot_clr" type="logic">
+      <obj_property name="ElementShortName">tot_clr</obj_property>
+      <obj_property name="ObjectShortName">tot_clr</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/sodapop/tot_sub" type="logic">
+      <obj_property name="ElementShortName">tot_sub</obj_property>
+      <obj_property name="ObjectShortName">tot_sub</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/sodapop/tot_lt_s" type="logic">
+      <obj_property name="ElementShortName">tot_lt_s</obj_property>
+      <obj_property name="ObjectShortName">tot_lt_s</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/sodapop/SP_Controller_1/presentstate" type="other">
+      <obj_property name="ElementShortName">presentstate</obj_property>
+      <obj_property name="ObjectShortName">presentstate</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/sodapop/segment7" type="array">
+      <obj_property name="ElementShortName">segment7[6:0]</obj_property>
+      <obj_property name="ObjectShortName">segment7[6:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/sodapop/AN" type="array">
+      <obj_property name="ElementShortName">AN[7:0]</obj_property>
+      <obj_property name="ObjectShortName">AN[7:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/sodapop/SP_Datapath_1/EightbitMux/temp_data" type="array">
+      <obj_property name="ElementShortName">temp_data[3:0]</obj_property>
+      <obj_property name="ObjectShortName">temp_data[3:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/sodapop/SP_Datapath_1/Subtractor/Result" type="array">
+      <obj_property name="ElementShortName">Result[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Result[7:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/sodapop/SP_Datapath_1/totReg_2/r" type="array">
+      <obj_property name="ElementShortName">r[7:0]</obj_property>
+      <obj_property name="ObjectShortName">r[7:0]</obj_property>
+   </wvobject>
+</wave_config>
